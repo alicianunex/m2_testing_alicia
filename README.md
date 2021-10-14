@@ -9,3 +9,5 @@ CRUD:
  - Ver película por nombre
  - Borrar todas las películas
  - Salir
+
+Peticiones POSTMAN ✅
