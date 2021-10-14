@@ -39,7 +39,7 @@ public class M2TestingAliciaApplication implements CommandLineRunner {
                 int opcion = scanner.nextInt();
                 scanner.nextLine();
 
-                    if (opcion == 1) { // Creando una película
+                if (opcion == 1) { // Creando una película
                     System.out.println("Introduce el título de la película");
                     String name = scanner.nextLine();
 

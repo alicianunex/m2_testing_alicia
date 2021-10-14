@@ -1,3 +1,4 @@
+
 package com.example.m2_testing_alicia;
 
 import javax.persistence.Entity;
@@ -17,9 +18,10 @@ public class Movie {
 	private Double duracion;
 
 	// Constructores
-
 	public Movie() {
+
 	}
+
 
 	public Movie(Long id, String name, Double duracion) {
 		this.id = id;
